@@ -1,0 +1,6 @@
+C:\Users\Глеб\source\repos\MyProductLibrary\MyProductLibrary\bin\Debug\MyProductLibrary.dll
+C:\Users\Глеб\source\repos\MyProductLibrary\MyProductLibrary\bin\Debug\MyProductLibrary.pdb
+C:\Users\Глеб\source\repos\MyProductLibrary\MyProductLibrary\obj\Debug\MyProductLibrary.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\MyProductLibrary\MyProductLibrary\obj\Debug\MyProductLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\MyProductLibrary\MyProductLibrary\obj\Debug\MyProductLibrary.dll
+C:\Users\Глеб\source\repos\MyProductLibrary\MyProductLibrary\obj\Debug\MyProductLibrary.pdb
